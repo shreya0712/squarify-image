@@ -10,6 +10,7 @@ const configuration: webpack.Configuration = {
   devtool: "source-map",
   target: "web",
   output: {
+    filename: "index.js",
     path: path.resolve(__dirname, "build"),
     libraryTarget: "umd",
     library: "squarifyImage"
