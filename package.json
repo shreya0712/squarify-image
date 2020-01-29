@@ -1,5 +1,5 @@
 {
-  "name": "squarify-image",
+  "name": "@tarragon/squarify-image",
   "version": "1.0.1",
   "description": "",
   "main": "build/index.js",
